@@ -12,3 +12,5 @@ Thu Apr 25 10:31:16 EDT 2013
 Thu Apr 25 11:07:26 EDT 2013
 
 Totally awesome!
+ 11:27:16 up  3:12, 29 users,  load average: 1.18, 1.06, 1.00
+Fri Jun 28 11:27:22 EDT 2013
