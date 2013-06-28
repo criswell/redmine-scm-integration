@@ -16,3 +16,4 @@ Totally awesome!
 Fri Jun 28 11:27:22 EDT 2013
  11:54:16 up 29 days,  3:22, 20 users,  load average: 0.00, 0.01, 0.05
  11:56:58 up 29 days,  3:25, 20 users,  load average: 0.07, 0.04, 0.05
+ 11:58:22 up 29 days,  3:26, 20 users,  load average: 0.02, 0.03, 0.05
